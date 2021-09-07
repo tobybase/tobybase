@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tobybase
 - 👀 I’m interested in learning computer languages. Hopefully, I can be as good as you are.
-- 🌱 I’m currently learning JaveScrip, PostgreSQL, and React.
+- 🌱 I’m currently learning JaveScrip, PostgreSQL, React.js, and Next.js.
 
 
 <!---
